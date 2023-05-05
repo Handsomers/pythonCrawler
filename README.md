@@ -6,7 +6,7 @@
 
 [深圳天气预报,深圳7天天气预报,深圳15天天气预报,深圳天气查询 (weather.com.cn)](http://www.weather.com.cn/weather15d/101280601.shtml)
 
-![image-20230505120407266](https://github.com/Handsomers//pythonCrawlerimages//images//image-20230505120407266.png)
+![image-20230505120407266]([https://github.com/Handsomers//pythonCrawlerimages//images//image-20230505120407266.png](https://github.com/Handsomers/pythonCrawler/blob/master/images/image-20230505120407266.png))
 
 ### 需要具备的知识：
 
