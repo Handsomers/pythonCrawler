@@ -52,7 +52,7 @@
 
 网站：[广东技术师范大学 (gpnu.edu.cn)](https://gpnu.edu.cn/index.htm)
 
-![image-20230505124417714](images\image-20230505124417714.png)
+![image-20230505124417714.png](https://github.com/Handsomers/pythonCrawler/blob/master/images/image-20230505124417714.png?raw=true)
 
 ### 爬取的代码
 
@@ -112,13 +112,13 @@ search(html)
 
 ### 爬取的效果
 
-![image-20230505124530042](images\image-20230505124530042.png)
+![image-20230505124530042.png](https://github.com/Handsomers/pythonCrawler/blob/master/images/image-20230505124530042.png?raw=true)
 
 ## 3.爬取豆瓣250热门电影的信息
 
 网站网址：[豆瓣电影 Top 250 (douban.com)](https://movie.douban.com/top250?start=)
 
-![image-20230505124934153](images\image-20230505124934153.png)
+![image-20230505124934153.png](https://github.com/Handsomers/pythonCrawler/blob/master/images/image-20230505124934153.png?raw=true)
 
 ### 爬取代码
 
@@ -242,4 +242,4 @@ print("爬取完毕")
 
 ### 爬取效果
 
-![image-20230505125127736](images\image-20230505125127736.png)
+![image-20230505125127736.png](https://github.com/Handsomers/pythonCrawler/blob/master/images/image-20230505125127736.png?raw=true)
